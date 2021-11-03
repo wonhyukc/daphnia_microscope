@@ -40,3 +40,7 @@ https://github.com/amchagas/Flypi
 # The USB microsocpe can be purchased at AliExpress.com
 
 ![alt text](https://github.com/joyinstech/daphnia_microscope/blob/main/commercial_usbmicroscope.png)
+
+# After 3D printing, put all the parts on a white paper 
+
+![alt text](https://github.com/joyinstech/daphnia_microscope/blob/main/preassembled.png)
