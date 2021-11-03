@@ -44,3 +44,16 @@ https://github.com/amchagas/Flypi
 # After 3D printing, put all the parts on a white paper 
 
 ![alt text](https://github.com/joyinstech/daphnia_microscope/blob/main/preassembled.png)
+
+# Connect the USB microscope to your computer and run RoboRealm software
+http://www.roborealm.com
+
+# Study how they track the movement of tiny insects using RoboRealm
+http://www.roborealm.com/tutorial/Blob_Tracking/index.php
+
+
+
+
+
+
+
