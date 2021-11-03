@@ -12,6 +12,8 @@ https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.2002702
 
 ![alt text](https://github.com/joyinstech/daphnia_microscope/blob/main/dr_chagas_paper.png)
 
+# and Dr. Chagas' GitHub repository
+
 https://github.com/amchagas/Flypi
 
 # We have added a USB microscope to watch Daphnia's swimming behavior
