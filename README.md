@@ -1,6 +1,6 @@
 ### daphnia_microscope
 
-# Daphnia, a.k.a waterplea, is a tiny animal to study acute biotoxicity of water sample.
+# Daphnia, a.k.a waterplea, is wildly used to study  biotoxicity of water.
 ![alt text](https://github.com/joyinstech/daphnia_microscope/blob/main/daphnia.png)
 
 
