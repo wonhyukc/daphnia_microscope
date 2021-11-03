@@ -12,5 +12,5 @@ M4x100 bolts are used to move X,Y,Z stage
 ![alt text](https://github.com/joyinstech/daphnia_microscope/blob/main/daphnia_scope_clear.png)
 
 Watch how the bolt and nut are inserted to the 3D printed XYZ stage
-![alt text](https://github.com/joyinstech/daphnia_microscope/blob/main/daphnia_scope_m4x100_bolt.png)
+![alt text](https://github.com/joyinstech/daphnia_microscope/blob/main/daphnia_scope_M4x100_bolt.png)
 
