@@ -27,8 +27,8 @@ https://github.com/amchagas/Flypi
 
 # You need to 3D print a holder for the USB microsocpe
 
-![alt text](https://github.com/joyinstech/daphnia_microscope/blob/main/daphnia_scope_holder_usebmicroscope.png)
+![alt text](https://github.com/joyinstech/daphnia_microscope/blob/main/daphnia_scope_holder_usbmicroscope.png)
 
 # The USB microsocpe can be purchased at AliExpress.com
 
-![alt text](https://github.com/joyinstech/daphnia_microscope/blob/main/commercial_usb_microscope.png)
+![alt text](https://github.com/joyinstech/daphnia_microscope/blob/main/commercial_usbmicroscope.png)
