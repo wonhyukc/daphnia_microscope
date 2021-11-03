@@ -4,7 +4,7 @@
 ![alt text](https://github.com/joyinstech/daphnia_microscope/blob/main/daphnia.png)
 
 
-# It's unique swimming behavior is a good tools to quantify toxicity of water
+# It's unique swimming behavior is a good tool to quantify toxicity of water
 
 ![alt text](https://github.com/joyinstech/daphnia_microscope/blob/main/swimming_behavior.png)
 
