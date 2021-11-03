@@ -25,3 +25,10 @@ https://github.com/amchagas/Flypi
 # Watch how the bolt and nut are inserted to the 3D printed XYZ stage
 ![alt text](https://github.com/joyinstech/daphnia_microscope/blob/main/daphnia_scope_M4x100_bolt.png)
 
+# You need to 3D print a holder for the USB microsocpe
+
+![alt text](https://github.com/joyinstech/daphnia_microscope/blob/main/daphnia_scope_holder_usebmicroscope.png)
+
+# The USB microsocpe can be purchased at AliExpress.com
+
+![alt text](https://github.com/joyinstech/daphnia_microscope/blob/main/commercial_usb_microscope.png)
