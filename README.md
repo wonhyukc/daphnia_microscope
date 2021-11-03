@@ -16,7 +16,7 @@ https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.2002702
 
 
 
-# Before proceed, please have a good look of original FlyPi paper
+# Before proceed, please have a good look of the original FlyPi paper
 
 ![alt text](https://github.com/joyinstech/daphnia_microscope/blob/main/dr_chagas_paper.png)
 
