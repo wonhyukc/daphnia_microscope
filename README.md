@@ -52,6 +52,11 @@ http://www.roborealm.com
 http://www.roborealm.com/tutorial/Blob_Tracking/index.php
 
 
+# Select your USB microscope on RoboRealm's camera setup menu
+![alt text](https://github.com/joyinstech/daphnia_microscope/blob/main/select_usbmicroscope.png)
+
+# Run your the first image processing command - Auto Thresholding
+![alt text](https://github.com/joyinstech/daphnia_microscope/blob/main/auto_thresholding.png)
 
 
 
