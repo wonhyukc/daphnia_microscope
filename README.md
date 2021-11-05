@@ -44,6 +44,26 @@ https://github.com/amchagas/Flypi
 # After 3D printing, put all the parts on a white paper 
 
 ![alt text](https://github.com/joyinstech/daphnia_microscope/blob/main/preassembled.png)
+# Assemble the slide glass manipulator first
+
+![alt text](https://github.com/joyinstech/daphnia_microscope/blob/main/fullkit.png)
+
+# You need three M4 bolts
+
+![alt text](https://github.com/joyinstech/daphnia_microscope/blob/main/cutbolt.png)
+
+# Trim the sharp cutting edge
+![alt text](https://github.com/joyinstech/daphnia_microscope/blob/main/trimedge.png)
+
+# Fasten the bolt with two M4 nuts
+![alt text](https://github.com/joyinstech/daphnia_microscope/blob/main/m4_nuts.png)
+
+# Apply instant adhesive to secure the nuts
+![alt text](https://github.com/joyinstech/daphnia_microscope/blob/main/m4_nuts.png)
+
+#  Finished manipulator assembly 
+![alt text](https://github.com/joyinstech/daphnia_microscope/blob/main/manipluator+slide.png)
+
 
 # Connect the USB microscope to your computer and run RoboRealm software
 http://www.roborealm.com
