@@ -59,10 +59,10 @@ https://github.com/amchagas/Flypi
 ![alt text](https://github.com/joyinstech/daphnia_microscope/blob/main/m4_nuts.png)
 
 # Apply instant adhesive to secure the nuts
-![alt text](https://github.com/joyinstech/daphnia_microscope/blob/main/m4_nuts.png)
+![alt text](https://github.com/joyinstech/daphnia_microscope/blob/main/adhesive.png)
 
 #  Finished manipulator assembly 
-![alt text](https://github.com/joyinstech/daphnia_microscope/blob/main/manipluator+slide.png)
+![alt text](https://github.com/joyinstech/daphnia_microscope/blob/main/manipulator_slide.png)
 
 
 # Connect the USB microscope to your computer and run RoboRealm software
