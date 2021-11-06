@@ -85,6 +85,9 @@ http://www.roborealm.com/tutorial/Blob_Tracking/index.php
 
 
 ![alt text](https://github.com/joyinstech/daphnia_microscope/blob/main/zebrafish-raw.mp4)
+https://youtu.be/FdG-JXn18mw
+https://youtu.be/vcjIzNaqp6k
+https://youtu.be/yeAE0kfid8U
 
 ![alt text](https://github.com/joyinstech/daphnia_microscope/blob/main/zebrafish-1.mp4)
 
