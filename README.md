@@ -1,9 +1,9 @@
 ### daphnia_microscope
 
 # Rivers are being polluted by textile industry
-![alt text](https://github.com/joyinstech/daphnia_microscope/blob/main/river_pollution_1.png)
+![alt text](https://github.com/joyinstech/daphnia_microscope/blob/main/river_polution_1.png)
 
-![alt text](https://github.com/joyinstech/daphnia_microscope/blob/main/river_pollution_2.png)
+![alt text](https://github.com/joyinstech/daphnia_microscope/blob/main/river_polution_2.png)
 
 # Daphnia, a.k.a waterplea, is wildly used to study  biotoxicity of water.
 ![alt text](https://github.com/joyinstech/daphnia_microscope/blob/main/daphnia.png)
