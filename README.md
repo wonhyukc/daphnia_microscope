@@ -1,9 +1,9 @@
 ### daphnia_microscope
 
 # Rivers are being polluted by textile industry
-![alt text](https://github.com/joyinstech/daphnia_microscope/blob/main/polluted_river1.png)
+![alt text](https://github.com/joyinstech/daphnia_microscope/blob/main/river_pollution1.png)
 
-![alt text](https://github.com/joyinstech/daphnia_microscope/blob/main/polluted_river2.png)
+![alt text](https://github.com/joyinstech/daphnia_microscope/blob/main/river_pollution2.png)
 
 # Daphnia, a.k.a waterplea, is wildly used to study  biotoxicity of water.
 ![alt text](https://github.com/joyinstech/daphnia_microscope/blob/main/daphnia.png)
@@ -90,7 +90,9 @@ http://www.roborealm.com/tutorial/Blob_Tracking/index.php
 
 ![alt text](https://github.com/joyinstech/daphnia_microscope/blob/main/zebrafish_AT_CROP_COG.mp4)
 
+![alt text](https://github.com/joyinstech/daphnia_microscope/blob/main/data_processing1.png)
 
+![alt text](https://github.com/joyinstech/daphnia_microscope/blob/main/data_processing2.png)
 
 
 # Now you are ready for the biotoxicity study ! 
